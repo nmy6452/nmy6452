@@ -15,7 +15,7 @@
 <h3>🔊 I use it at least once</h3>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/>
- <img src="https://img.shields.io/badge/C#-#239120?style=for-the-badge&logo=C#&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C Sharp-#239120?style=for-the-badge&logo=C#&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FF3300?style=for-the-badge&logo=CoffeeScript&logoColor=white"/> 
   
