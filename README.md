@@ -9,7 +9,7 @@
 ***  
   
 <h3>🔊 My Personal Blog</h3>
-  <a href="https://velog.io/nmy6452"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+  <a href="https://velog.io/@nmy6452"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
   
   
 <h3>🔊 I use it at least once</h3>
