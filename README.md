@@ -13,13 +13,15 @@
   
   
 <h3>🔊 I use it at least once</h3>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Csharp-#239120?style=for-the-badge&logo=C#&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Java-FF3300?style=for-the-badge&logo=CoffeeScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-FF3300?style=for-the-badge&logo=CoffeeScript&logoColor=white"/> 
   
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
   
 ***
   
