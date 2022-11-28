@@ -31,7 +31,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmy6452&theme=radical&hide=jupyter%20notebook&layout=compact)
   
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=nmy6452&layout=compact)
   
   
 <h4>✨ BOJ Profile</h4>
