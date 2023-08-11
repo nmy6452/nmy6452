@@ -20,7 +20,7 @@
   
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
  <img src="https://img.shields.io/badge/PostgreSQL-003545?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/Jqurey?style=for-the-badge&logo=Jqurey&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jquery?style=for-the-badge&logo=jquery&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-3DDC84?style=for-the-badge&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> 
   
