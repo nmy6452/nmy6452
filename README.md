@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C#&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FF3300?style=for-the-badge&logo=CoffeeScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
   
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
  <img src="https://img.shields.io/badge/PostgreSQL-003545?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/jquery-#F7DF1E?style=for-the-badge&logo=jquery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jquery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-3DDC84?style=for-the-badge&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> 
   
