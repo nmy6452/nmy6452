@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=header&text=nmy6452&fontSize=90&animation=fadeIn)
 
-<h3>📑 환상의 코딩쇼 뭔가 보여드리겠습니다.</h3>
+<h3>🐤 이게 되네 와 이게 왜되의 연속</h3>
 
 <pre> 나태함, 그 순간은 달콤하고 결과는 비참하다.</pre>
   
