@@ -2,15 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=header&text=nmy6452&fontSize=90&animation=fadeIn)
 
-<h3>📑 환상의 코딩쇼 뭔가 보여드리겠습니다.</h3>
+<h3>📑 복잡한 시스템을 단순한 코드로 만들고자하는 개발자</h3>
 
 <pre> 나태함, 그 순간은 달콤하고 결과는 비참하다.</pre>
   
 ***  
-  
-<h3>🔊 My Personal Blog</h3>
-  <a href="https://velog.io/@nmy6452"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-  
   
 <h3>🔊 I use it at least once</h3>
 <img src="https://img.shields.io/badge/Java-FF3300?style=for-the-badge&logo=CoffeeScript&logoColor=white"/> 
