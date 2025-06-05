@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=header&text=nmy6452&fontSize=90&animation=fadeIn)
 
-<h3>📑 복잡한 시스템을 단순한 코드로 만들고자하는 개발자</h3>
+<h3>📑 복잡한 시스템을 단순한 코드로 만들고자 하는 개발자</h3>
 
 <pre> 나태함, 그 순간은 달콤하고 결과는 비참하다.</pre>
   
