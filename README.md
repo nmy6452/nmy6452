@@ -37,5 +37,13 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmy6452&show_icons=true&theme=radical)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nmy6452&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/nmy6452"
+  width="600"
+  height="300"
+/>
+</a>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 </div>
